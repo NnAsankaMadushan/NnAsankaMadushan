@@ -1,9 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Asanka Madushan</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
-
-- 📫 How to reach me **nnamadushan@gmail.com**
+### Hi there 👋, I'm Asanka Madushan
+#### An undergraduate at University of Ruhuna, Faculty of Engineering
+I'm Asanka Madushan from Sri Lanka, and I do content on Development. I really enjoy learning languages and frameworks like React. I also enjoy ui design in general.
+- 🌱 I’m currently learning Angular and PHP 
+- 💬 Ask me about Java and React 
+- 📫 How to reach me: nnamadushan@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
