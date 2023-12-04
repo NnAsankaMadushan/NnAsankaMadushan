@@ -22,6 +22,8 @@ I'm Asanka Madushan from Sri Lanka, and I do content on Development. I really en
 <a href="https://www.instagram.com/asa_nn_11/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Asanka Madushan" height="30" width="40" /></a>
 </p>
 
+## Status
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NnAsankaMadushan&show_icons=true&theme=darcula )
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NnAsankaMadushan&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
