@@ -1,5 +1,6 @@
-### Hi there 👋, I'm Asanka Madushan
-#### An undergraduate at University of Ruhuna, Faculty of Engineering
+<h1 align="center">Hi 👋, I'm Asanka Madushan</h1>
+<h3 align="center">An undergraduate at University of Ruhuna, Faculty of Engineering</h3>
+
 I'm Asanka Madushan from Sri Lanka, and I do content on Development. I really enjoy learning languages and frameworks like React. I also enjoy ui design in general.
 - 🌱 I’m currently learning Angular and PHP 
 - 💬 Ask me about Java and React 
