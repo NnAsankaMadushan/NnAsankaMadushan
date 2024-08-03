@@ -5,6 +5,7 @@ I'm Asanka Madushan from Sri Lanka, and I do content on Development. I really en
 - 🌱 I’m currently learning Angular and PHP 
 - 💬 Ask me about Java and React 
 - 📫 How to reach me: nnamadushan@gmail.com
+- 📄 Please have a look at my [Portfolio/Resume](https://nnasankamadushan.github.io/Portfolio-Asanka/) for more details about me. I'm open to feedback and suggestions!
 
 ## Skills and Experience
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="13" height="13"/> React
@@ -22,6 +23,10 @@ I'm Asanka Madushan from Sri Lanka, and I do content on Development. I really en
 <a href="https://www.hackerrank.com/profile/Asanka_Madushan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Asanka_Madushan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/asa_nn_11/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Asanka Madushan" height="30" width="40" /></a>
 </p>
+
+### Visitor's count 👀
+<p align="left"><img src="https://profile-counter.glitch.me/NnAsankaMadushan/count.svg" alt="nnasankamadushan :: Visitor's Count" /></p>
+<br/>
 
 ## Status
 
