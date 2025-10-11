@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Asanka Madushan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Engineering+Student;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Engineering+Student;Always+Learning+New+Things" alt="Typing SVG" />
 
 ### 🎓 Undergraduate at University of Ruhuna, Faculty of Engineering
 
@@ -18,9 +18,9 @@
 const asanka = {
     location: "Sri Lanka 🇱🇰",
     education: "University of Ruhuna - Faculty of Engineering",
-    currentFocus: ["Angular", "PHP"],
-    interests: ["Development", "UI/UX Design", "Problem Solving"],
-    askMeAbout: ["Java", "React", "Web Development"],
+    currentFocus: ["Angular", "PHP", "Flutter", "React Native"],
+    interests: ["Web Development", "Mobile App Development", "UI/UX Design", "Problem Solving"],
+    askMeAbout: ["Java", "React", "Flutter", "Firebase", "Web & Mobile Development"],
     reachMe: "nnamadushan@gmail.com",
     funFact: "I turn coffee into code ☕"
 };
@@ -34,6 +34,9 @@ const asanka = {
 
 ### Frontend Development
 <img src="https://skillicons.dev/icons?i=react,html,css,js,angular,tailwind,bootstrap" alt="Frontend Skills" />
+
+### Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,react" alt="Mobile Development Skills" />
 
 ### Backend Development
 <img src="https://skillicons.dev/icons?i=java,nodejs,python,php,express" alt="Backend Skills" />
