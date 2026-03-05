@@ -38,7 +38,6 @@ const asanka: Developer = {
 
 <br/>
 
----
 
 ## ◈ &nbsp;Tech Arsenal
 
@@ -68,37 +67,18 @@ const asanka: Developer = {
 
 <br/>
 
----
 
 ## ◈ &nbsp;GitHub Metrics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=NnAsankaMadushan&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=CDD9E5&ring_color=00FFD1&border_radius=12" />
+
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NnAsankaMadushan&theme=dark&hide_border=true&background=0D1117&ring=00FFD1&fire=FF6B6B&currStreakLabel=00FFD1&sideLabels=CDD9E5&dates=8892B0&border_radius=12" />
 
-<br/><br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NnAsankaMadushan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=CDD9E5&langs_count=8&border_radius=12" />
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=NnAsankaMadushan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&area=true&area_color=00FFD1" />
 
 </div>
 
-<br/>
 
----
-
-## ◈ &nbsp;Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NnAsankaMadushan&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=6" />
-
-</div>
-
-<br/>
-
----
 
 ## ◈ &nbsp;Find Me Online
 
@@ -130,19 +110,6 @@ const asanka: Developer = {
 
 </div>
 
-<br/>
-
----
-
-## ◈ &nbsp;Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
-<br/>
 
 <!-- Contribution Snake -->
 ## ◈ &nbsp;Contribution Activity
