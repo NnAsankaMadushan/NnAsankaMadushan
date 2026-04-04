@@ -124,6 +124,6 @@ const asanka: Developer = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FFD1,100:0066FF&section=footer&reversal=false&fontColor=ffffff" width="100%"/>
 
-<sub>⟨ Crafted with precision by <a href="https://github.com/NnAsankaMadushan"><b>Asanka Madushan</b></a> • Updated regularly ⟩</sub>
+<sub>⟨ Crafted with precision by <a href="https://github.com/NnAsankaMadushan"><b>Asanka Madushan</b></a> ⟩</sub>
 
 </div>
