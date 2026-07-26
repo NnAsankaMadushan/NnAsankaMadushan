@@ -53,6 +53,7 @@ def main():
     LEVELS = ["#16161E", "#004F4D", "#008F87", "#00BFB2", "#00FFD1"]
     
     svg = []
+    svg.append('<?xml version="1.0" encoding="utf-8"?>')
     svg.append(f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">')
     svg.append('  <style>')
     svg.append('    .text { font-family: "JetBrains Mono", Consolas, monospace; font-size: 9px; fill: #8892B0; }')

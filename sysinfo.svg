@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="460" height="280" viewBox="0 0 460 280">
   <style>
     .panel { font-family: "JetBrains Mono", Consolas, "Liberation Mono", monospace; font-size: 13px; }
@@ -41,6 +42,6 @@
   </g>
   <g class="row" style="animation-delay: 1200ms;">
     <text x="20" y="240" class="panel key">◈ loc:</text>
-    <text x="130" y="240" class="panel val">Sri Lanka 🇱🇰</text>
+    <text x="130" y="240" class="panel val">Sri Lanka</text>
   </g>
 </svg>

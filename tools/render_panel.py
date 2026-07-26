@@ -4,7 +4,6 @@ import sys
 def main():
     preview = os.environ.get("PREVIEW") == "1"
 
-    # Custom info for Asanka
     ROWS = [
         ("user", "nnamadushan@gmail.com"),
         ("role", "Full Stack / Mobile Developer"),
@@ -12,7 +11,7 @@ def main():
         ("stack", "React · Flutter · Node · PHP"),
         ("now", "Building clean-architecture apps"),
         ("school", "BSc Eng - University of Ruhuna"),
-        ("loc", "Sri Lanka 🇱🇰"),
+        ("loc", "Sri Lanka"),
     ]
 
     width = 460
@@ -22,6 +21,7 @@ def main():
     height = header_height + (len(ROWS) * row_height) + padding + 10
 
     svg = []
+    svg.append('<?xml version="1.0" encoding="utf-8"?>')
     svg.append(f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">')
     svg.append('  <style>')
     svg.append('    .panel { font-family: "JetBrains Mono", Consolas, "Liberation Mono", monospace; font-size: 13px; }')

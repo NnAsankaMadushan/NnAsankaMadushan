@@ -55,6 +55,7 @@ def main():
     svg_height = rows * line_height + 20
     
     svg = []
+    svg.append('<?xml version="1.0" encoding="utf-8"?>')
     svg.append(f'<svg xmlns="http://www.w3.org/2000/svg" width="{svg_width}" height="{svg_height}" viewBox="0 0 {svg_width} {svg_height}">')
     svg.append('  <style>')
     svg.append('    .ascii {')
