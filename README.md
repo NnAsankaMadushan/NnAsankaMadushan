@@ -1,4 +1,15 @@
 <div align="center">
+<table>
+  <tr>
+    <td valign="top"><img src="./portrait.svg" width="360" /></td>
+    <td valign="top"><img src="./sysinfo.svg" width="460" /></td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
 
 <!-- Dynamic Header -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Asanka%20Madushan&fontSize=70&color=0:0D0D0D,100:0D0D0D&stroke=00FFD1&strokeWidth=2&fontColor=00FFD1&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20%7C%20Mobile%20Developer&descAlignY=75&descSize=20&descColor=8892B0" width="100%"/>
@@ -16,19 +27,6 @@
 
 <br/>
 
-<!-- About Me Section -->
-## ◈ &nbsp;`whoami`
-
-<div align="center">
-<table>
-  <tr>
-    <td valign="top"><img src="./portrait.svg" width="360" /></td>
-    <td valign="top"><img src="./sysinfo.svg" width="460" /></td>
-  </tr>
-</table>
-</div>
-
-<br/>
 
 ## ◈ &nbsp;Tech Arsenal
 

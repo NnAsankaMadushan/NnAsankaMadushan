@@ -5,6 +5,7 @@ def main():
     preview = os.environ.get("PREVIEW") == "1"
 
     ROWS = [
+        ("name", "Asanka Madushan"),
         ("user", "nnamadushan@gmail.com"),
         ("role", "Full Stack / Mobile Developer"),
         ("focus", "Frontend, Mobile & Systems"),
