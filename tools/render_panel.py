@@ -12,6 +12,9 @@ def main():
         ("stack", "React | Flutter | Node | PHP"),
         ("now", "Building clean-architecture apps"),
         ("school", "BSc Eng - University of Ruhuna"),
+        ("learning", "Angular | Flutter | React Native"),
+        ("exploring", "System Design & Clean Architecture"),
+        ("superpower", "Transforming coffee into code"),
         ("loc", "Sri Lanka"),
     ]
 
