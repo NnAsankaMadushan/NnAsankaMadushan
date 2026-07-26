@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="455" height="475" viewBox="0 0 455 475">
+  <style>
+    .ascii {
+      font-family: "Courier New", Courier, monospace;
+      font-size: 11px;
+      font-weight: bold;
+      fill: #00FFD1;
+    }
+    .reveal {
+      animation: draw 0.8s steps(10, end) forwards;
+      opacity: 0;
+    }
+    @keyframes draw {
+      to { opacity: 1; }
+    }
+  </style>
+  <rect width="100%" height="100%" fill="#0D0D0D" rx="8" />
+  <text x="15" y="20" class="ascii">
+    <tspan x="15" y="35" class="reveal" style="animation-delay: 0ms;">:;;;;;;;:::::::,,,,..,,.,,,,,,.,::......:~;;;;;;;;~~~;::::::::;:;</tspan>
+    <tspan x="15" y="48" class="reveal" style="animation-delay: 35ms;">;;;;;;;;;:::::::,,,,,,..........,::,,,,::;;;;;~~~~~~~;~;;;;;;;;;:</tspan>
+    <tspan x="15" y="61" class="reveal" style="animation-delay: 70ms;">;;;;:::;;::::::::::::::::,,,,,,,,,,,,,::::,,,::;::::;:;::,:::,:::</tspan>
+    <tspan x="15" y="74" class="reveal" style="animation-delay: 105ms;">;;;;;::,,,,..,,,,;;;;;;;;;;;~~~~;;;;:::::::,,,,,,,:::::::::::::::</tspan>
+    <tspan x="15" y="87" class="reveal" style="animation-delay: 140ms;">;;;;;~;:::::,,,,:~~;;;:::~***xx+;~;~++++~~~~~~;;;;::::::::::::;;:</tspan>
+    <tspan x="15" y="100" class="reveal" style="animation-delay: 175ms;">::::;~+++++++*+++++~~~~~xXxxxXX*++**x++***+++~;;;:,,::::::::;::::</tspan>
+    <tspan x="15" y="113" class="reveal" style="animation-delay: 210ms;">:::::;~~~;;;;~~;;;;~;;;*OXXXXOOOO##Ox*XXx**~~;::::::::::::::;;:::</tspan>
+    <tspan x="15" y="126" class="reveal" style="animation-delay: 245ms;">:::::::::,,,,,:::;;;::+OOOXXXXXOOOXxXOOXxxX*:::::::::::::;;;;;:::</tspan>
+    <tspan x="15" y="139" class="reveal" style="animation-delay: 280ms;">:::::::::::::;;;;~~~~~X#X+;;;:;;;;::;+*xOOOX:::::::::,,,,,,,,,,,,</tspan>
+    <tspan x="15" y="152" class="reveal" style="animation-delay: 315ms;">::;;;;~~~++~~~~~+~~~++XX~::::,,,,,,,,,,:*XOO~;;;:::::,,.....,,::,</tspan>
+    <tspan x="15" y="165" class="reveal" style="animation-delay: 350ms;">;;~~~++**+++++~~~;~~~~Xx~:::,,,,,,,,,,,:~*XO;;::::;~~;:,,.,,,::,,</tspan>
+    <tspan x="15" y="178" class="reveal" style="animation-delay: 385ms;">;~~~~++*+++~~~~;;~~~;:*x~~++++;::;~~;;::~+**,,,..,:~;;:,,,,,,,,,,</tspan>
+    <tspan x="15" y="191" class="reveal" style="animation-delay: 420ms;">;;;;~~~~~~~;;;::;;;;:,~+~++++++:;+++~~;::+*;,,....,:::,,,,:::::::</tspan>
+    <tspan x="15" y="204" class="reveal" style="animation-delay: 455ms;">;:;;;;;;;:::::::;;:,,,;~;~;;:;;,,;;;;;:::~;::....,,:::,,,:::;;;;~</tspan>
+    <tspan x="15" y="217" class="reveal" style="animation-delay: 490ms;">;::::::::;;;;;:::::::,;~:,,,,:,..,,,.,,,:;;:,...,,:;;::,:::;;;~~~</tspan>
+    <tspan x="15" y="230" class="reveal" style="animation-delay: 525ms;">;::::;;~~;;;:::::::::,,;;:::;~~:~;::,,,:;:::,,,,,,::;;:::;;~~~~~~</tspan>
+    <tspan x="15" y="243" class="reveal" style="animation-delay: 560ms;">;:::;~~;;::,,,,,,,,,,..~~;**+**++~~++::;+;;;:::,,,::;;;;;;~+*++++</tspan>
+    <tspan x="15" y="256" class="reveal" style="animation-delay: 595ms;">;::::;;:::,..,,..,,,,,.~x~**+:,,,:~x*;~++:::::,,,,::;;;:;;~+++***</tspan>
+    <tspan x="15" y="269" class="reveal" style="animation-delay: 630ms;">;::::::::,,,,,,,,,:,,,,,*x+;;~;;;::+****;,,,,,,,,::::::::;++++***</tspan>
+    <tspan x="15" y="282" class="reveal" style="animation-delay: 665ms;">~:::::,,,,,,,,,,:::,,,,,,*X*~~+++~+xxXx;;,....,,:::::;:;~*******+</tspan>
+    <tspan x="15" y="295" class="reveal" style="animation-delay: 700ms;">~~;:::::::::::,:::::,,,,.:*XXxxxxxxXx+;,+:'.,,,,:,,:::;;~+++++++~</tspan>
+    <tspan x="15" y="308" class="reveal" style="animation-delay: 735ms;">~~~;:;:::;;;;;:::,,:::,..:~~*xXxxx*~;::;;'''..,,,,,::::::;;~~~~~~</tspan>
+    <tspan x="15" y="321" class="reveal" style="animation-delay: 770ms;">;~~;::;::;;~~~~~;::,...'.,+;;;;~~;;:::;:'''&#160;&#160;'&#160;''..::::,:::;;;;;;</tspan>
+    <tspan x="15" y="334" class="reveal" style="animation-delay: 805ms;">;;;;;::;;;~~~~;:,.'''''''':+;;;;;;:::;:'''&#160;&#160;'''''&#160;&#160;''..,,::::::,,</tspan>
+    <tspan x="15" y="347" class="reveal" style="animation-delay: 840ms;">;;;;;;:;;;~;:.'''''''..,...;;;::::::;:.'..''&#160;&#160;'''''''&#160;&#160;&#160;'..,,,...</tspan>
+    <tspan x="15" y="360" class="reveal" style="animation-delay: 875ms;">;;;;;;:::;,'''''''''.,,,,,,.,::;;;::,..,,,,,.'''''''''''&#160;&#160;&#160;'.,...</tspan>
+    <tspan x="15" y="373" class="reveal" style="animation-delay: 910ms;">;;;;;:;;;,''''''''''...........,;:,...........'''''''''''''''.,,,</tspan>
+    <tspan x="15" y="386" class="reveal" style="animation-delay: 945ms;">;::;;:;;:'''''''''''''''''''..',,'....''''''''''''''''''''''''...</tspan>
+    <tspan x="15" y="399" class="reveal" style="animation-delay: 980ms;">:::;;;::.'''''''''''''''''''''',,''''''''''''''''''''''''''''''''</tspan>
+    <tspan x="15" y="412" class="reveal" style="animation-delay: 1015ms;">:::;;:,..''''''''''''''''''''''&#160;&#160;''''''''''''''''''''''''''''''''</tspan>
+    <tspan x="15" y="425" class="reveal" style="animation-delay: 1050ms;">;:::;:....'''.'''''''''''''''''''''''''''''''''''''''''''''''''''</tspan>
+    <tspan x="15" y="438" class="reveal" style="animation-delay: 1085ms;">::::;:......'''''''''''''''''''''''''''''''''''''''''''''''''''''</tspan>
+    <tspan x="15" y="451" class="reveal" style="animation-delay: 1120ms;">;:,:::.........'''''''''''''''''''''''''''''''''''''..''.''''''''</tspan>
+    <tspan x="15" y="464" class="reveal" style="animation-delay: 1155ms;">;:,,::.'..'.,,..''''''''''''''.:''''''&#160;''&#160;&#160;&#160;&#160;'''''''......'''''''</tspan>
+    <tspan x="15" y="477" class="reveal" style="animation-delay: 1190ms;">;;::::.'.....,,..''''''''''''''''''''''''''&#160;'''''''..,,...'''''''</tspan>
+  </text>
+</svg>

@@ -19,25 +19,16 @@
 <!-- About Me Section -->
 ## ◈ &nbsp;`whoami`
 
-```typescript
-const asanka: Developer = {
-  name      : "Asanka Madushan",
-  location  : "Sri Lanka 🇱🇰",
-  education : "BSc Engineering — University of Ruhuna",
-
-  currently : {
-    learning  : ["Angular", "Flutter", "React Native", "PHP"],
-    building  : "Projects that matter",
-    exploring : "System design & clean architecture",
-  },
-
-  superpower: "I transform ☕ coffee into production-ready code",
-  contact   : "nnamadushan@gmail.com",
-};
-```
+<div align="center">
+<table>
+  <tr>
+    <td valign="top"><img src="./portrait.svg" width="360" /></td>
+    <td valign="top"><img src="./sysinfo.svg" width="460" /></td>
+  </tr>
+</table>
+</div>
 
 <br/>
-
 
 ## ◈ &nbsp;Tech Arsenal
 
@@ -66,19 +57,6 @@ const asanka: Developer = {
 </div>
 
 <br/>
-
-
-## ◈ &nbsp;GitHub Metrics
-
-<div align="center">
-
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NnAsankaMadushan&theme=dark&hide_border=true&background=0D1117&ring=00FFD1&fire=FF6B6B&currStreakLabel=00FFD1&sideLabels=CDD9E5&dates=8892B0&border_radius=12" />
-
-
-</div>
-
-
 
 ## ◈ &nbsp;Find Me Online
 
@@ -110,20 +88,20 @@ const asanka: Developer = {
 
 </div>
 
+<br/>
 
-<!-- Contribution Snake -->
+<!-- Contribution Snake / Graph -->
 ## ◈ &nbsp;Contribution Activity
 
 <div align="center">
+  <img src="./graph.svg" width="820" />
+</div>
 
-[![Asanka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NnAsankaMadushan&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&area=true)](https://github.com/NnAsankaMadushan)
-
+<br/>
 
 <!-- Footer -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FFD1,100:0066FF&section=footer&reversal=false&fontColor=ffffff" width="100%"/>
-
-<sub>⟨ Crafted with precision by <a href="https://github.com/NnAsankaMadushan"><b>Asanka Madushan</b></a> ⟩</sub>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FFD1,100:0066FF&section=footer&reversal=false&fontColor=ffffff" width="100%"/>
+  <br/>
+  <sub>⟨ Crafted with precision by <a href="https://github.com/NnAsankaMadushan"><b>Asanka Madushan</b></a> ⟩</sub>
 </div>
