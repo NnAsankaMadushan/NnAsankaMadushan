@@ -57,11 +57,14 @@ def main():
         delay = idx * 200
         style_attr = f' class="row" style="animation-delay: {delay}ms;"' if not preview else ''
         
+        # Escape special XML characters
+        val_escaped = v.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+        
         svg.append(f'  <g{style_attr}>')
         # Prompt character
         svg.append(f'    <text x="20" y="{y_pos}" class="panel key">◈ {k}:</text>')
         # Value
-        svg.append(f'    <text x="130" y="{y_pos}" class="panel val">{v}</text>')
+        svg.append(f'    <text x="130" y="{y_pos}" class="panel val">{val_escaped}</text>')
         svg.append('  </g>')
         
     svg.append('</svg>')

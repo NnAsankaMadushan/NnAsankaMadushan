@@ -26,7 +26,7 @@
   </g>
   <g class="row" style="animation-delay: 400ms;">
     <text x="20" y="120" class="panel key">◈ focus:</text>
-    <text x="130" y="120" class="panel val">Frontend, Mobile & Systems</text>
+    <text x="130" y="120" class="panel val">Frontend, Mobile &amp; Systems</text>
   </g>
   <g class="row" style="animation-delay: 600ms;">
     <text x="20" y="150" class="panel key">◈ stack:</text>
