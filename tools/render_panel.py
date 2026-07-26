@@ -8,7 +8,7 @@ def main():
         ("user", "nnamadushan@gmail.com"),
         ("role", "Full Stack / Mobile Developer"),
         ("focus", "Frontend, Mobile & Systems"),
-        ("stack", "React · Flutter · Node · PHP"),
+        ("stack", "React | Flutter | Node | PHP"),
         ("now", "Building clean-architecture apps"),
         ("school", "BSc Eng - University of Ruhuna"),
         ("loc", "Sri Lanka"),
@@ -62,7 +62,7 @@ def main():
         
         svg.append(f'  <g{style_attr}>')
         # Prompt character
-        svg.append(f'    <text x="20" y="{y_pos}" class="panel key">◈ {k}:</text>')
+        svg.append(f'    <text x="20" y="{y_pos}" class="panel key">&gt; {k}:</text>')
         # Value
         svg.append(f'    <text x="130" y="{y_pos}" class="panel val">{val_escaped}</text>')
         svg.append('  </g>')
