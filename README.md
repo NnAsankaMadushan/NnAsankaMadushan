@@ -92,7 +92,9 @@
 ## ◈ &nbsp;Contribution Activity
 
 <div align="center">
-  <img src="./graph.svg" width="820" />
+  <a href="https://github.com/NnAsankaMadushan" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NnAsankaMadushan&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&area=true" width="820" />
+  </a>
 </div>
 
 <br/>
