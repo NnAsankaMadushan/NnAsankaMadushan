@@ -375,7 +375,8 @@
   <rect x="698" y="82" width="10" height="10" fill="#008F87" class="rect" style="animation-delay: 1275ms; transform-origin: 703.0px 87.0px;" />
   <rect x="698" y="95" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 1275ms; transform-origin: 703.0px 100.0px;" />
   <rect x="698" y="108" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 1275ms; transform-origin: 703.0px 113.0px;" />
-  <rect x="711" y="30" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 1300ms; transform-origin: 716.0px 35.0px;" />
+  <rect x="711" y="30" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 1300ms; transform-origin: 716.0px 35.0px;" />
+  <rect x="711" y="43" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 1300ms; transform-origin: 716.0px 48.0px;" />
   <text x="604" y="154" class="text">Less</text>
   <rect x="634" y="146" width="10" height="10" fill="#16161E" rx="1.5" />
   <rect x="648" y="146" width="10" height="10" fill="#004F4D" rx="1.5" />
@@ -384,9 +385,9 @@
   <rect x="690" y="146" width="10" height="10" fill="#00FFD1" rx="1.5" />
   <text x="704" y="154" class="text">More</text>
   <text x="15" y="154" class="stat-text">
-    <tspan class="stat-label">Total: </tspan>296
-    <tspan class="stat-label">  Streak: </tspan>27 days
-    <tspan class="stat-label">  Max Streak: </tspan>27 days
+    <tspan class="stat-label">Total: </tspan>298
+    <tspan class="stat-label">  Streak: </tspan>28 days
+    <tspan class="stat-label">  Max Streak: </tspan>28 days
     <tspan class="stat-label">  Busiest: </tspan>Mon
   </text>
 </svg>
