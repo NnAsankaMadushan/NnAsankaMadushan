@@ -1,44 +1,9 @@
 {
   "total": 388,
-  "current_streak": 103,
-  "longest_streak": 103,
+  "current_streak": 0,
+  "longest_streak": 104,
   "busiest_day": "Mon",
   "contributions": [
-    {
-      "date": "2025-11-02",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-03",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-04",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-05",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-06",
-      "level": 1,
-      "count": 2
-    },
-    {
-      "date": "2025-11-07",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-08",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-11-09",
       "level": 3,
@@ -1856,6 +1821,16 @@
     },
     {
       "date": "2026-11-07",
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-11-08",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
       "level": 0,
       "count": 0
     }
