@@ -88,8 +88,8 @@
   <rect x="165" y="82" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 250ms; transform-origin: 170.0px 87.0px;" />
   <rect x="165" y="95" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 250ms; transform-origin: 170.0px 100.0px;" />
   <rect x="165" y="108" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 250ms; transform-origin: 170.0px 113.0px;" />
-  <rect x="178" y="30" width="10" height="10" fill="#00BFB2" class="rect" style="animation-delay: 275ms; transform-origin: 183.0px 35.0px;" />
-  <rect x="178" y="43" width="10" height="10" fill="#00BFB2" class="rect" style="animation-delay: 275ms; transform-origin: 183.0px 48.0px;" />
+  <rect x="178" y="30" width="10" height="10" fill="#00FFD1" class="rect" style="animation-delay: 275ms; transform-origin: 183.0px 35.0px;" />
+  <rect x="178" y="43" width="10" height="10" fill="#00FFD1" class="rect" style="animation-delay: 275ms; transform-origin: 183.0px 48.0px;" />
   <rect x="178" y="56" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 275ms; transform-origin: 183.0px 61.0px;" />
   <rect x="178" y="69" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 275ms; transform-origin: 183.0px 74.0px;" />
   <rect x="178" y="82" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 275ms; transform-origin: 183.0px 87.0px;" />
@@ -99,12 +99,12 @@
   <rect x="191" y="43" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 300ms; transform-origin: 196.0px 48.0px;" />
   <rect x="191" y="56" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 300ms; transform-origin: 196.0px 61.0px;" />
   <rect x="191" y="69" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 300ms; transform-origin: 196.0px 74.0px;" />
-  <rect x="191" y="82" width="10" height="10" fill="#008F87" class="rect" style="animation-delay: 300ms; transform-origin: 196.0px 87.0px;" />
-  <rect x="191" y="95" width="10" height="10" fill="#00BFB2" class="rect" style="animation-delay: 300ms; transform-origin: 196.0px 100.0px;" />
+  <rect x="191" y="82" width="10" height="10" fill="#00BFB2" class="rect" style="animation-delay: 300ms; transform-origin: 196.0px 87.0px;" />
+  <rect x="191" y="95" width="10" height="10" fill="#00FFD1" class="rect" style="animation-delay: 300ms; transform-origin: 196.0px 100.0px;" />
   <rect x="191" y="108" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 300ms; transform-origin: 196.0px 113.0px;" />
   <rect x="204" y="30" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 325ms; transform-origin: 209.0px 35.0px;" />
-  <rect x="204" y="43" width="10" height="10" fill="#008F87" class="rect" style="animation-delay: 325ms; transform-origin: 209.0px 48.0px;" />
-  <rect x="204" y="56" width="10" height="10" fill="#00BFB2" class="rect" style="animation-delay: 325ms; transform-origin: 209.0px 61.0px;" />
+  <rect x="204" y="43" width="10" height="10" fill="#00BFB2" class="rect" style="animation-delay: 325ms; transform-origin: 209.0px 48.0px;" />
+  <rect x="204" y="56" width="10" height="10" fill="#00FFD1" class="rect" style="animation-delay: 325ms; transform-origin: 209.0px 61.0px;" />
   <rect x="204" y="69" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 325ms; transform-origin: 209.0px 74.0px;" />
   <rect x="204" y="82" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 325ms; transform-origin: 209.0px 87.0px;" />
   <rect x="204" y="95" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 325ms; transform-origin: 209.0px 100.0px;" />
@@ -112,11 +112,11 @@
   <rect x="217" y="30" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 350ms; transform-origin: 222.0px 35.0px;" />
   <rect x="217" y="43" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 350ms; transform-origin: 222.0px 48.0px;" />
   <rect x="217" y="56" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 350ms; transform-origin: 222.0px 61.0px;" />
-  <rect x="217" y="69" width="10" height="10" fill="#00BFB2" class="rect" style="animation-delay: 350ms; transform-origin: 222.0px 74.0px;" />
+  <rect x="217" y="69" width="10" height="10" fill="#00FFD1" class="rect" style="animation-delay: 350ms; transform-origin: 222.0px 74.0px;" />
   <rect x="217" y="82" width="10" height="10" fill="#00FFD1" class="rect" style="animation-delay: 350ms; transform-origin: 222.0px 87.0px;" />
   <rect x="217" y="95" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 350ms; transform-origin: 222.0px 100.0px;" />
-  <rect x="217" y="108" width="10" height="10" fill="#00BFB2" class="rect" style="animation-delay: 350ms; transform-origin: 222.0px 113.0px;" />
-  <rect x="230" y="30" width="10" height="10" fill="#00BFB2" class="rect" style="animation-delay: 375ms; transform-origin: 235.0px 35.0px;" />
+  <rect x="217" y="108" width="10" height="10" fill="#00FFD1" class="rect" style="animation-delay: 350ms; transform-origin: 222.0px 113.0px;" />
+  <rect x="230" y="30" width="10" height="10" fill="#00FFD1" class="rect" style="animation-delay: 375ms; transform-origin: 235.0px 35.0px;" />
   <rect x="230" y="43" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 375ms; transform-origin: 235.0px 48.0px;" />
   <rect x="230" y="56" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 375ms; transform-origin: 235.0px 61.0px;" />
   <rect x="230" y="69" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 375ms; transform-origin: 235.0px 74.0px;" />
@@ -131,7 +131,7 @@
   <rect x="243" y="95" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 400ms; transform-origin: 248.0px 100.0px;" />
   <rect x="243" y="108" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 400ms; transform-origin: 248.0px 113.0px;" />
   <rect x="256" y="30" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 425ms; transform-origin: 261.0px 35.0px;" />
-  <rect x="256" y="43" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 425ms; transform-origin: 261.0px 48.0px;" />
+  <rect x="256" y="43" width="10" height="10" fill="#008F87" class="rect" style="animation-delay: 425ms; transform-origin: 261.0px 48.0px;" />
   <rect x="256" y="56" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 425ms; transform-origin: 261.0px 61.0px;" />
   <rect x="256" y="69" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 425ms; transform-origin: 261.0px 74.0px;" />
   <rect x="256" y="82" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 425ms; transform-origin: 261.0px 87.0px;" />
@@ -143,16 +143,16 @@
   <rect x="269" y="69" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 450ms; transform-origin: 274.0px 74.0px;" />
   <rect x="269" y="82" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 450ms; transform-origin: 274.0px 87.0px;" />
   <rect x="269" y="95" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 450ms; transform-origin: 274.0px 100.0px;" />
-  <rect x="269" y="108" width="10" height="10" fill="#00BFB2" class="rect" style="animation-delay: 450ms; transform-origin: 274.0px 113.0px;" />
+  <rect x="269" y="108" width="10" height="10" fill="#00FFD1" class="rect" style="animation-delay: 450ms; transform-origin: 274.0px 113.0px;" />
   <rect x="282" y="30" width="10" height="10" fill="#00FFD1" class="rect" style="animation-delay: 475ms; transform-origin: 287.0px 35.0px;" />
-  <rect x="282" y="43" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 475ms; transform-origin: 287.0px 48.0px;" />
+  <rect x="282" y="43" width="10" height="10" fill="#008F87" class="rect" style="animation-delay: 475ms; transform-origin: 287.0px 48.0px;" />
   <rect x="282" y="56" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 475ms; transform-origin: 287.0px 61.0px;" />
-  <rect x="282" y="69" width="10" height="10" fill="#00BFB2" class="rect" style="animation-delay: 475ms; transform-origin: 287.0px 74.0px;" />
+  <rect x="282" y="69" width="10" height="10" fill="#00FFD1" class="rect" style="animation-delay: 475ms; transform-origin: 287.0px 74.0px;" />
   <rect x="282" y="82" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 475ms; transform-origin: 287.0px 87.0px;" />
   <rect x="282" y="95" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 475ms; transform-origin: 287.0px 100.0px;" />
   <rect x="282" y="108" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 475ms; transform-origin: 287.0px 113.0px;" />
   <rect x="295" y="30" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 500ms; transform-origin: 300.0px 35.0px;" />
-  <rect x="295" y="43" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 500ms; transform-origin: 300.0px 48.0px;" />
+  <rect x="295" y="43" width="10" height="10" fill="#008F87" class="rect" style="animation-delay: 500ms; transform-origin: 300.0px 48.0px;" />
   <rect x="295" y="56" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 500ms; transform-origin: 300.0px 61.0px;" />
   <rect x="295" y="69" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 500ms; transform-origin: 300.0px 74.0px;" />
   <rect x="295" y="82" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 500ms; transform-origin: 300.0px 87.0px;" />
@@ -168,7 +168,7 @@
   <rect x="321" y="30" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 550ms; transform-origin: 326.0px 35.0px;" />
   <rect x="321" y="43" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 550ms; transform-origin: 326.0px 48.0px;" />
   <rect x="321" y="56" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 550ms; transform-origin: 326.0px 61.0px;" />
-  <rect x="321" y="69" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 550ms; transform-origin: 326.0px 74.0px;" />
+  <rect x="321" y="69" width="10" height="10" fill="#008F87" class="rect" style="animation-delay: 550ms; transform-origin: 326.0px 74.0px;" />
   <rect x="321" y="82" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 550ms; transform-origin: 326.0px 87.0px;" />
   <rect x="321" y="95" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 550ms; transform-origin: 326.0px 100.0px;" />
   <rect x="321" y="108" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 550ms; transform-origin: 326.0px 113.0px;" />
@@ -259,7 +259,7 @@
   <rect x="490" y="30" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 875ms; transform-origin: 495.0px 35.0px;" />
   <rect x="490" y="43" width="10" height="10" fill="#00FFD1" class="rect" style="animation-delay: 875ms; transform-origin: 495.0px 48.0px;" />
   <rect x="490" y="56" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 875ms; transform-origin: 495.0px 61.0px;" />
-  <rect x="490" y="69" width="10" height="10" fill="#008F87" class="rect" style="animation-delay: 875ms; transform-origin: 495.0px 74.0px;" />
+  <rect x="490" y="69" width="10" height="10" fill="#00BFB2" class="rect" style="animation-delay: 875ms; transform-origin: 495.0px 74.0px;" />
   <rect x="490" y="82" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 875ms; transform-origin: 495.0px 87.0px;" />
   <rect x="490" y="95" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 875ms; transform-origin: 495.0px 100.0px;" />
   <rect x="490" y="108" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 875ms; transform-origin: 495.0px 113.0px;" />
@@ -375,7 +375,8 @@
   <rect x="698" y="82" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 1275ms; transform-origin: 703.0px 87.0px;" />
   <rect x="698" y="95" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 1275ms; transform-origin: 703.0px 100.0px;" />
   <rect x="698" y="108" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 1275ms; transform-origin: 703.0px 113.0px;" />
-  <rect x="711" y="30" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 1300ms; transform-origin: 716.0px 35.0px;" />
+  <rect x="711" y="30" width="10" height="10" fill="#004F4D" class="rect" style="animation-delay: 1300ms; transform-origin: 716.0px 35.0px;" />
+  <rect x="711" y="43" width="10" height="10" fill="#16161E" class="rect" style="animation-delay: 1300ms; transform-origin: 716.0px 48.0px;" />
   <text x="604" y="154" class="text">Less</text>
   <rect x="634" y="146" width="10" height="10" fill="#16161E" rx="1.5" />
   <rect x="648" y="146" width="10" height="10" fill="#004F4D" rx="1.5" />
@@ -384,8 +385,8 @@
   <rect x="690" y="146" width="10" height="10" fill="#00FFD1" rx="1.5" />
   <text x="704" y="154" class="text">More</text>
   <text x="15" y="154" class="stat-text">
-    <tspan class="stat-label">Total: </tspan>360
-    <tspan class="stat-label">  Streak: </tspan>13 days
+    <tspan class="stat-label">Total: </tspan>394
+    <tspan class="stat-label">  Streak: </tspan>14 days
     <tspan class="stat-label">  Max Streak: </tspan>104 days
     <tspan class="stat-label">  Busiest: </tspan>Mon
   </text>
